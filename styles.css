@@ -1,11 +1,21 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
-    background-color: #4f4f4f;
 }
+
+html, body {
+    background-color: #656565;
+    margin: 0;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+
 
 .box {
     background-color: #232323;
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 500px;
+    padding: 20px;
+    margin: 15px
 }
